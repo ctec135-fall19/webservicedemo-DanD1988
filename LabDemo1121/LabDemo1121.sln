@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextWebService", "TextWebService\TextWebService.csproj", "{28F7E62E-F217-4F6F-9C55-BFB09B75F558}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28F7E62E-F217-4F6F-9C55-BFB09B75F558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F7E62E-F217-4F6F-9C55-BFB09B75F558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F7E62E-F217-4F6F-9C55-BFB09B75F558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F7E62E-F217-4F6F-9C55-BFB09B75F558}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8D84FAD-B529-4E18-B72D-94B699B513BD}
+	EndGlobalSection
+EndGlobal
